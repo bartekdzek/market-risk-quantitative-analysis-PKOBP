@@ -54,6 +54,9 @@ The models were validated to ensure statistical significance:
 
 ## File Structure
 
-* `projekt.Rmd` - Main RMarkdown source code containing analysis and calculations.
-* `projekt.html` - Rendered report with charts and tables.
-* `pko_d.csv` - Historical stock data (OHLCV) for PKO BP.
+* `projekt.Rmd` – Main R Markdown source file containing the full analysis and calculations.
+* `projekt.html` – Rendered HTML report with tables and charts (requires downloading to view).
+* `pko_d.csv` – Historical price data (OHLCV) for PKO BP used in the analysis.
+* `projekt_md.md` – Rendered Markdown report with tables and charts (viewable directly on GitHub).
+* `projekt_md_files/figure-gfm` – Folder with PNG plots needed for correct rendering of `projekt_md.md` on GitHub.
+

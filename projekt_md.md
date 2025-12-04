@@ -1,14 +1,6 @@
 ---
 title: "Projekt Ilościowe Miary Ryzyka Rynkowego"
 author: "Bartosz Tasak"
-date: "2025-11-13"
-output:
-  md_document:
-    toc: true
-    toc_depth: 4
-    variant: gfm
-    preserve_yaml: true
-number_sections: true
 ---
 
 - [Wprowadzenie](#wprowadzenie)
@@ -869,3 +861,4 @@ Christoffersona również pokazał, że metoda historyczna z wagami była
 lepsza, ponieważ jej przekroczenia były statystycznie niezależne
 (p-value 0.37), podczas gdy zwykła metoda historyczna ledwo poradziła
 sobie z tym testem (p-value 0.0595).
+
